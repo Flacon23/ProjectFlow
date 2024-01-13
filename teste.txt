@@ -1,0 +1,34 @@
+clinica sante
+analize medicale
+4
+5
+se fac atatea opratii cu atatea numere  2 cu o operatia aleasa de aici +/-/*/min/max
+rezultatul opeatiilor este 20 folosind operatia *
+Ana are mere
+Gigel are pere
+mere,pere,banane
+3lei/kg,5lei/kg,7lei/kg
+yu yio
+molecula sangelui 3ad
+titlu- ggeq subtitlu- egqag
+titlu- test2 , subtitlu- test
+test cel frumos exercitiu
+5
+3
+se fac atatea opratii cu atatea numere  2 cu o operatia aleasa de aici +/-/*/min/max
+rezultatul opeatiilor este 2 folosind operatia -
+titlu- anothertest , subtitlu- test
+5
+7
+2
+se fac atatea opratii cu atatea numere  3 cu o operatia aleasa de aici +/-/*/min/max
+rezultatul opeatiilor este 70 folosind operatia *
+titlu- anothertest4 , subtitlu- test
+poo imi place poo
+titlu- nasa , subtitlu- rachete
+titlu- NASA , subtitlu- spacex
+vreau o racheta
+Ana are mere
+Gigel are pere
+Ana are mere
+Gigel are pere
